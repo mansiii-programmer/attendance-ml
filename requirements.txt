@@ -1,0 +1,7 @@
+numpy
+opencv-python
+face_recognition
+scikit-learn
+tensorflow
+pandas
+imutils
